@@ -6,4 +6,5 @@ Technologies used:
   - [React](https://facebook.github.io/react/index.html)
   - [Material Design Lite](https://getmdl.io/)
   - [PostgreSQL](http://www.postgresql.org/)
-  - [MongoDB](https://www.mongodb.com/)
+  - [MongoDB](https://www.mongodb.com/) (TBD)
+  - [Qlik Sense](http://global.qlik.com/it/explore/products/sense)
